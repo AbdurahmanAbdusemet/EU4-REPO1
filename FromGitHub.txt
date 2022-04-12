@@ -1,1 +1,12 @@
-this is the file I added directly from Github.com repository
+this is the file I added directly
+from Github.com repository
+more changes
+
+Hey I just cloned my project from my
+Github account
+
+just by clicking open with
+Github Desktop button on
+Github.com
+and it magically cloned
+my project to the location I specified
